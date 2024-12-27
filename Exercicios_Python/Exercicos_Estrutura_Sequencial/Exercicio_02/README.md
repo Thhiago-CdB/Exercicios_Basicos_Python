@@ -1,0 +1,1 @@
+Exercício 02: Peça ao usuário três números inteiros e mostre a média aritmética entre eles.

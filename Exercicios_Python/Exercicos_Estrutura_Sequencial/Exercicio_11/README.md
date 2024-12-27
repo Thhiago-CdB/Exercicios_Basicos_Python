@@ -1,0 +1,1 @@
+Exercício 11: Peça ao usuário o valor inicial investido, taxa de juros mensal (%) e tempo de investimento (meses). Calcule o saldo final com juros compostos e o total de juros acumulados.

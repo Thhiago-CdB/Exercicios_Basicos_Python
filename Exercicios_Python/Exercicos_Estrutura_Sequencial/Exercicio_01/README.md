@@ -1,0 +1,1 @@
+Exercício 01: Solicite ao usuário quatro números inteiros, faça a soma deles e mostre o resultado.

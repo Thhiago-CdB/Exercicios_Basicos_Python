@@ -1,0 +1,1 @@
+Exercício 12: Solicite o salário bruto, o percentual de descontos (INSS, IR, etc.) e o percentual de benefícios (vale-refeição, bônus, etc.). Calcule e mostre o salário líquido com base nesses valores.

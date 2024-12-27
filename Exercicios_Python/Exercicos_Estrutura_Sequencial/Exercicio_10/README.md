@@ -1,0 +1,1 @@
+Exercício 10: Peça ao usuário um capital inicial, uma taxa de juros e um período de tempo para calcular, em juros simples, e mostrar o ganho de juros junto ao montante final.

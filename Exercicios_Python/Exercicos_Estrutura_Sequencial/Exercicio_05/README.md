@@ -1,0 +1,1 @@
+Exercício 05: Solicite o raio de um círculo, calcule e mostre a área.

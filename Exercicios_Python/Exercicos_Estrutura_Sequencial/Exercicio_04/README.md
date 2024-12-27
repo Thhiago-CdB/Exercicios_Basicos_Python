@@ -1,0 +1,1 @@
+Execício 04: Solicite a largura e a altura de um retângulo, calcule e mostrea a área.

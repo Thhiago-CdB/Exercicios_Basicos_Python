@@ -1,0 +1,1 @@
+Exercício 13: Solicite o número de dias e quilômetros rodados por um carro alugado. Calcule o valor a pagar, considerando uma taxa fixa por dia e um custo variável por quilômetro rodado.

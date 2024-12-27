@@ -1,0 +1,1 @@
+Exercício 06: Peça o lado de um hexágono regular, calcule e mostre a área do hexágono.

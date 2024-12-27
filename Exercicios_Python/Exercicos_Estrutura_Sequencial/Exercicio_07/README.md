@@ -1,0 +1,1 @@
+Exercício 07: Solicite ao usuário as bases e a altura de um trapézio, calcule e mostre a área.
